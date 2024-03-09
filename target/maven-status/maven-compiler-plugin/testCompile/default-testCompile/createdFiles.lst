@@ -1,0 +1,6 @@
+com\entrata\selenium\tests\EntrataBaseClass.class
+com\entrata\selenium\tests\EntrataTests.class
+com\entrata\selenium\utils\CommonUtils.class
+com\entrata\selenium\driverManager\WebDriverManager.class
+com\entrata\selenium\tests\AppTest.class
+com\entrata\selenium\data\TestDataProviders.class
